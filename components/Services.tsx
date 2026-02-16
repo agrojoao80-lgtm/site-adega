@@ -45,7 +45,7 @@ export const Services: React.FC = () => {
                 <Star className="w-12 h-12 text-royal-gold fill-current" />
                 <div className="text-left">
                     <h4 className="text-xl font-cinzel text-white mb-2">Qualidade Superior</h4>
-                    <p className="text-gray-300">Trabalhamos apenas com uvas selecionadas e safras premiadas do Vale dos Vinhedos.</p>
+                    <p className="text-gray-300">Trabalhamos apenas com uvas selecionadas e safras e vinhos de alta qualidade.</p>
                 </div>
             </div>
         </div>
